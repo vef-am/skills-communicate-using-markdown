@@ -8,3 +8,8 @@ cout << "Hello, world!" << endl;
 ``` javascript
 var myVar = "Hello, world";
 ```
+
+### Smaller Header
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
